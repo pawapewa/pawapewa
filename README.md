@@ -1,13 +1,8 @@
-## Hey 👋, I'm eblan  
+## Hey 👋, I'm eblan
   
 
-  
-  
-
-
-
-### Glad valakaz  
-I’m a вась  
+### Glad to see you!  
+I’m a software developer.  
   
 
 <br/>  
@@ -16,21 +11,17 @@ I’m a вась
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on porn  
+- 🔭 I’m currently working on webcam
   
-
-- 🌱 I’m currently learning suck ball  
+- 🌱 I’m currently learning suck 
   
-
-- ⚡ Fun fact: I gey  
-
+- ⚡ Fun fact: I gey
 
 </td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-
 
 </td></tr></table>  
 
@@ -54,7 +45,7 @@ I’m a вась
 <br/>  
 
 
-## Github Stats  
+## GitHub Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=pawapewa&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -66,17 +57,6 @@ I’m a вась
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
